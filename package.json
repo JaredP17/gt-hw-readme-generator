@@ -1,13 +1,25 @@
 {
-  "name": "static-site",
+  "name": "gt-hw-readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm test"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaredP17/gt-hw-readme-generator.git"
+  },
+  "keywords": [
+    "README",
+    "Generator"
+  ],
+  "author": "Jared Porter",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaredP17/gt-hw-readme-generator/issues"
+  },
+  "homepage": "https://github.com/JaredP17/gt-hw-readme-generator#readme",
   "dependencies": {
     "inquirer": "^6.3.1"
   }
