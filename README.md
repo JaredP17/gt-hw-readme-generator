@@ -36,7 +36,7 @@ Create a professional README.md by running the program with the following comman
 
 ## Demo
 
-[![Demo](./Assets/demo.gif)](./Assets/demo.webm)
+[![Demo](./Assets/demo.gif)](https://drive.google.com/file/d/1Ju15whmThEzsJV4rW24SG1oppAAW6gIP/view)
 
 ## License
 
