@@ -72,15 +72,26 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
   // Use inquirer package
-  console.log("Hello World!");
   inquirer
     .prompt(questions)
     .then((data) => {
-      console.log(data);
-      let {gitHub, email, title, description, license, installCmd, testCmd, usage, contributing} = data;
+      // console.log(data);
+      const {
+        gitHub,
+        email,
+        title,
+        description,
+        license,
+        installCmd,
+        testCmd,
+        usage,
+        contributing,
+      } = data;
       return `# ${title.toLowerCase().split(" ").join("-")}
 
-![GitHub license](https://img.shields.io/badge/license-${license.split(" ").join("_")}-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-${license
+        .split(" ")
+        .join("_")}-blue.svg)
 
 ## Description
 
