@@ -131,7 +131,7 @@ ${testCmd}
 If you have any questions about the repo, open an issue or contact me directly at ${email}. You can find more of my work at [jaredp17](https://github.com/${gitHub}/).`;
     })
     .then((res) => {
-      writeToFile("Sample-README.md", res);
+      writeToFile("./generated/README.md", res);
     })
     .catch((err) => {
       console.log(err);
