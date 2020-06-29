@@ -8,17 +8,19 @@ A command-line application that dynamically generates a professional README.md f
 
 ## Table of Contents
 
-* [Installation](#installation)
+- [Installation](#installation)
 
-* [Usage](#usage)
+- [Usage](#usage)
 
-* [License](#license)
+- [Demo](#demo)
 
-* [Contributing](#contributing)
+- [License](#license)
 
-* [Tests](#tests)
+- [Contributing](#contributing)
 
-* [Questions](#questions)
+- [Tests](#tests)
+
+- [Questions](#questions)
 
 ## Installation
 
@@ -34,7 +36,7 @@ Create a professional README.md by running the program with the following comman
 
 ## Demo
 
-Gif goes here
+<iframe src="https://drive.google.com/file/d/1FfSo45Z1pmVxHMSvxt5vSGj0igNSitlL/preview" width="640" height="480"></iframe>
 
 ## License
 
