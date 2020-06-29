@@ -22,15 +22,19 @@ A command-line application that dynamically generates a professional README.md f
 
 ## Installation
 
-To install necessary dependencies, run the following command:
+1. Clone the repo
 
-```
-npm i
-```
+2. Navigate to the repo in your terminal application.
+
+3. Install necessary dependencies by running the following command: `npm i`
 
 ## Usage
 
+Create a professional README.md by running the program with the following command: `node index.js`
 
+## Demo
+
+Gif goes here
 
 ## License
 
@@ -42,7 +46,7 @@ I am the sole contributor to this project.
 
 ## Tests
 
-```
+```shell
 npm test
 ```
 
