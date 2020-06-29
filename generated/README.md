@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a sample generated README.md file. 
+This is a sample generated README.md
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ npm i
 
 ## Usage
 
-Use responsibly.
+Use as you please.
 
 ## License
 

@@ -36,7 +36,7 @@ Create a professional README.md by running the program with the following comman
 
 ## Demo
 
-<iframe src="https://drive.google.com/file/d/1FfSo45Z1pmVxHMSvxt5vSGj0igNSitlL/preview" width="640" height="480"></iframe>
+![Demo GIF](Assets/demo.gif)
 
 ## License
 
