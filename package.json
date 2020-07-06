@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/JaredP17/gt-hw-readme-generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.5.2"
   }
 }

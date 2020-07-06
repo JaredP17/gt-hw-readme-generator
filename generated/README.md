@@ -1,10 +1,10 @@
-# sample-readme
+# gt-hw-employee-summary
 
-![GitHub license](https://img.shields.io/badge/license-APACHE_2.0-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-This is a sample generated README.md
+A Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.
 
 ## Table of Contents
 
@@ -30,11 +30,11 @@ npm i
 
 ## Usage
 
-Use as you please.
+Clone repo, install dependecies, run app.js, and follow the prompts.
 
 ## License
 
-This project is licensed under the APACHE 2.0 license.
+This project is licensed under the MIT license.
 
 ## Contributing
 
@@ -43,7 +43,7 @@ I am the sole contributor.
 ## Tests
 
 ```
-npm test
+npm run test
 ```
 
 ## Questions
